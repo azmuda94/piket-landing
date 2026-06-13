@@ -1,0 +1,1 @@
+globalThis.__RSC_MANIFEST=(globalThis.__RSC_MANIFEST||{});globalThis.__RSC_MANIFEST["/api/waitlist/route"]={"moduleLoading":{"prefix":"/_next/"},"ssrModuleMapping":{},"edgeSSRModuleMapping":{},"clientModules":{},"entryCSSFiles":{"C:\\Users\\azmuda\\Desktop\\VPN\\Firma\\prace\\piket-app\\app\\api\\waitlist\\route":[]},"rscModuleMapping":{},"edgeRscModuleMapping":{}};
